@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0-pre.1",
+    "@webcomponents/webcomponentsjs": "^1.0.20",
+    "firebase": "^4.7.0"
+  },
+  "name": "polybase-db",
+  "description": "A wrapper for Firebase Realtime Database made in Polymer 3. It auto-updates/fetch data in each update that Firebase notifies, also has methods for add/update/remove.",
+  "version": "1.0.0",
+  "main": "polybase-db.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deblanco/polybase-db.git"
+  },
+  "keywords": [
+    "polymer",
+    "3",
+    "javascript",
+    "firebase",
+    "database"
+  ],
+  "author": "Daniel Blanco Parla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deblanco/polybase-db/issues"
+  },
+  "homepage": "https://github.com/deblanco/polybase-db#readme"
+}
